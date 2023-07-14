@@ -1,5 +1,4 @@
-Exploration of Compression+kNN method described in paper _“Low-Resource” Text Classification: A Parameter-Free Classification
-Method with Compressors_
+Exploration of Compression+kNN method described in paper _“Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors_
 Paper src: https://aclanthology.org/2023.findings-acl.426.pdf (also in docs/)
 
 Data sources:
